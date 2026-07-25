@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "YS",
-    lang: "R/Python",
+    lang: "GO",
   },
   sections: [
     {
